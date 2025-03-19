@@ -43,7 +43,6 @@ The following table summarizes the training metrics over epochs:
 - Python 3.8+
 - PyTorch
 - OpenCV
-- Other dependencies listed in `requirements.txt` 
 
 ## License:
 
@@ -52,4 +51,4 @@ This project is open-source and available under the MIT License.
 ## References:
 
 - KITTI Dataset: [KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/)
-- YOLO Implementation: [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) (if applicable)
+- YOLO Implementation: [Ultralytics YOLOv5](https://github.com/ultralytics/yolov5) 
