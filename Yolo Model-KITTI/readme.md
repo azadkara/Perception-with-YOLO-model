@@ -1,6 +1,6 @@
 # YOLO Model Trained on KITTI Dataset
 
-This repository contains a **YOLO (You Only Look Once)** model trained on the **KITTI dataset** for object detection tasks. The project includes the trained model weights, evaluation metrics, and visualizations of the training process.
+This repository contains a **YOLOV5 (You Only Look Once)** model trained on the **KITTI dataset** for object detection tasks. The project includes the trained model weights, evaluation metrics, and visualizations of the training process.
 
 ## Files Included:
 
@@ -43,6 +43,7 @@ The following table summarizes the training metrics over epochs:
 - Python 3.8+
 - PyTorch
 - OpenCV
+
 
 ## License:
 
